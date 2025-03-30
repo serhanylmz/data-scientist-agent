@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+openpyxl
+sqlalchemy
+jinja2
+weasyprint
+openai
+python-dotenv
